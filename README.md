@@ -50,4 +50,4 @@ The study identified solutions to measure embodied carbon emissions, define carb
 
 
 # License and attribution
-This data is published under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). When using this data and/or scripts, plese cite the respective DOIs of this repository (https://doi.org/10.5281/zenodo.6671558) as well as the related project reports (https://doi.org/10.5281/zenodo.6120522 & https://doi.org/10.5281/zenodo.5895051) and share your outputs under similar conditions. Thank you.
+This data is published under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). When using this data and/or scripts, please cite the respective DOIs of this repository (https://doi.org/10.5281/zenodo.6671558) as well as the related project reports (https://doi.org/10.5281/zenodo.6120522 & https://doi.org/10.5281/zenodo.5895051) and share your outputs under similar conditions. Thank you.
