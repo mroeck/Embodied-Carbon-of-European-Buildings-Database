@@ -3,8 +3,10 @@ Embodied-Carbon-of-European-Buildings-Database (EU-ECB-DB)
 
 ***A public repository focused on Embodied Carbon Data of Buildings across Europe. The repository provides the building LCA data compiled, processed and analyzed as well as the scripts used for processing, analysis and visualisation.***
 
-Developed by [Martin Röck (KU Leuven)](https://www.linkedin.com/in/martinroeck/)
+**Authors:** Developed by [Martin Röck (KU Leuven)](https://www.linkedin.com/in/martinroeck/)
 and [Andreas Sorensen (Ramboll)](https://www.linkedin.com/in/a-soerensen/) within ['Towards embodied carbon benchmarks for buildings in Europe' ](https://c.ramboll.com/lets-reduce-embodied-carbon).
+
+**Cite as:** Röck and Sorensen, Embodied-Carbon-of-European-Buildings-Database (EU-ECB-DB), 2022, https://doi.org/10.5281/zenodo.6671558
 
 
 
@@ -48,4 +50,4 @@ The study identified solutions to measure embodied carbon emissions, define carb
 
 
 # License and attribution
-This data is published under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). When using this data and/or scripts, plese cite the respective DOIs of this repository as well as the related project reports (https://doi.org/10.5281/zenodo.6120522 & https://doi.org/10.5281/zenodo.5895051) and share your outputs under similar conditions. Thank you.
+This data is published under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). When using this data and/or scripts, plese cite the respective DOIs of this repository (https://doi.org/10.5281/zenodo.6671558) as well as the related project reports (https://doi.org/10.5281/zenodo.6120522 & https://doi.org/10.5281/zenodo.5895051) and share your outputs under similar conditions. Thank you.
