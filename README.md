@@ -3,8 +3,8 @@ Embodied-Carbon-of-European-Buildings-Database (EU-ECB-DB)
 
 ***A public repository focused on Embodied Carbon Data of Buildings across Europe. The repository provides the building LCA data compiled, processed and analyzed as well as the scripts used for processing, analysis and visualisation.***
 
-**Authors:** Developed by [Martin Röck (KU Leuven)](https://www.linkedin.com/in/martinroeck/)
-and [Andreas Sorensen (Ramboll)](https://www.linkedin.com/in/a-soerensen/) within the ['Towards embodied carbon benchmarks for buildings in Europe' project](https://c.ramboll.com/lets-reduce-embodied-carbon).
+Developed by [Martin Röck (KU Leuven)](https://www.linkedin.com/in/martinroeck/)
+and [Andreas Sorensen (Ramboll)](https://www.linkedin.com/in/a-soerensen/) within ['Towards embodied carbon benchmarks for buildings in Europe' ](https://c.ramboll.com/lets-reduce-embodied-carbon).
 
 
 
