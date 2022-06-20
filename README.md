@@ -6,7 +6,7 @@ Embodied-Carbon-of-European-Buildings-Database (EU-ECB-DB)
 **Authors:** Developed by [Martin Röck (KU Leuven)](https://www.linkedin.com/in/martinroeck/)
 and [Andreas Sorensen (Ramboll)](https://www.linkedin.com/in/a-soerensen/) within ['Towards embodied carbon benchmarks for buildings in Europe' ](https://c.ramboll.com/lets-reduce-embodied-carbon).
 
-**Cite as:** Röck and Sorensen, Embodied-Carbon-of-European-Buildings-Database (EU-ECB-DB), 2022, https://doi.org/10.5281/zenodo.6671558
+**Cite as:** Röck and Sorensen, Embodied Carbon of European Buildings Database (EU-ECB-DB), 2022, https://doi.org/10.5281/zenodo.6671558
 
 
 
